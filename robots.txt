@@ -1,8 +1,8 @@
 User-agent: *
 
-Disallow: /public/assets/images/icons
-Disallow: /public/assets/images/contact
-Disallow: /public/assets/images/knowledge
-Disallow: /public/assets/images/experience
+Disallow: /assets/images/icons
+Disallow: /assets/images/contact
+Disallow: /assets/images/knowledge
+Disallow: /assets/images/experience
 
 Sitemap: https://tuurl.com/sitemap.xml
