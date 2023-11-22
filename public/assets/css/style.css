@@ -40,6 +40,12 @@ h1 {
 .icon-container a {
     width: 100%;
 }
+.icon-push {
+    transition: transform 0.3s ease-in-out;
+}
+.icon-push:hover {
+    transform: scale(1.1);
+}
 /* Title section */
 .title-section span {
     color: var(--primary);
